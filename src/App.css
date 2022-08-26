@@ -1,0 +1,28 @@
+body {
+  background-color: black;
+}
+
+.container {
+  align-items: center;
+  margin: auto;
+  display: flex;
+  border: 1px solid;
+  width: 80%;
+  margin-top: 125px;
+  padding: 60px;
+  background-color: blue;
+  color: white;
+  border-radius: 10px;
+  text-align: center;
+}
+th {
+  border: 1px solid;
+  padding: 4px;
+}
+
+table {
+  align-items: center;
+  margin: auto;
+  font-size: 25px;
+  font-family: monospace;
+}
